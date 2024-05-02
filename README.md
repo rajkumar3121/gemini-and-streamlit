@@ -26,8 +26,12 @@
 
 8. Once opened, open a terminal. 
 
-   ![image](open_terminal.png).
+   ![image](pics/open_terminal.png).
 
+
+   ![image](pics/terminal.png).
+
+   
 ## Task 1
 
 9. In the terminal, copy-paste this command: 
@@ -38,18 +42,23 @@
 
 10. Open the `prompt.ipynb` file from the left side 
 
-    ![image](image_link_he).
+    ![image](pics/open_prompt.png)
 
 11. In the `ipynb` file, in the 5th cell, replace 'Why is the sky blue' with the following:
     ```
     I am a Chef. I need to create Japanese recipes for customers who want low sodium meals. However, I do not want to include recipes that use ingredients associated with a peanuts food allergy. I have ahi tuna, fresh ginger, and edamame in my kitchen and other ingredients. The
 
-12. Copy your project ID from your lab 
+![image](pics/prior_open.png).
 
-    ![image](image_link_here) and paste it in the third cell of the `ipynb` file in the `PROJECT_ID` variable. 
+12. Copy your project ID from your lab ![image](pics/project_id.png)
 
-    ![image](image_link_here). Change the region similarly.
+    
 
-13. Once all the above variables have been changed, run each cell in the `ipynb` file from the beginning one by one (make sure the current cell runs completely and the kernel status switches to idle from busy, and then only move on to run the next cell). Similarly, run all cells one by one.
 
-14. Wait for about one minute and check your progress in the lab.
+    ![image](pics/project_id_change.png) and paste it in the third cell of the `ipynb` file in the `PROJECT_ID` variable. 
+
+    ![image](pics/change_id.png). Change the region similarly.
+
+12. Once all the above variables have been changed, run each cell in the `ipynb` file from the beginning one by one (make sure the current cell runs completely and the kernel status switches to idle from busy, and then only move on to run the next cell). Similarly, run all cells one by one.
+
+13. Wait for about one minute and check your progress in the lab.
