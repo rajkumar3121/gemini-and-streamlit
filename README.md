@@ -36,7 +36,7 @@
 9. In the terminal, copy-paste this command: 
 
     ```bash
-    gsutil cp gs://spls/gsp517/prompt.ipynb .
+    gsutil cp gs://spls/gsp517/prompt.ipynb
     ```
 
 10. Open the `prompt.ipynb` file from the left side 
