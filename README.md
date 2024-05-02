@@ -1,4 +1,7 @@
-# Google Cloud Skills Boost Lab
+<img src="pics/skill_badge.png" alt="Skill Badge" style="width: 300px;"/>
+
+# Develop GenAI Apps with Gemini and Streamlit: Challenge Lab
+### [GSP517]
 
 ## Getting Started
 
@@ -6,29 +9,29 @@
 
 2. Log in to 'Google Cloud Console' with the provided student ID 
 
-   ![image](pics/cloud_console.png).
+   ![Cloud Console](pics/cloud_console.png).
 
 3. Open Google Cloud Shell from the top-right icon on the ribbon 
 
-   ![image](pics/cloud_shell.png).
+   ![Cloud Shell](pics/cloud_shell.png).
 
 4. Search for 'Workbench' in the search bar and open Workbench (Open AI).
 
 5. Click on 'User-managed Notebooks'. 
 
-   ![image](pics/user_managed.png).
+   ![User Managed](pics/user_managed.png).
 
 6. Click on 'Open Jupyter Notebook' 
 
-   ![image](pics/open_jupyter.png).
+   ![Open Jupyter](pics/open_jupyter.png).
 
 7. Wait for the notebook to load (may take a couple of minutes).
 
 8. Once opened, open a terminal. 
 
-   ![image](pics/open_terminal.png).
+   ![Open Terminal](pics/open_terminal.png).
 
-   ![image](pics/terminal.png).
+   ![Terminal](pics/terminal.png).
 
    
 ## Task 1
