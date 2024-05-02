@@ -54,12 +54,17 @@
 
     ![image](pics/project_id.png) .
 
-    ![image](pics/project_id_change.png) and paste it in the third cell of the `ipynb` file in the `PROJECT_ID` variable. 
+    ![image](pics/project_id_change.png)
+
+    and paste it in the third cell of the `ipynb` file in the `PROJECT_ID` variable.
+
+    
+14. Change the region similarly.
+
+    ![image](pics/change_region.png)
 
 
-    Change the region similarly.
-    ![image](pics/change_region.png). 
 
-13. Once all the above variables have been changed, run each cell in the `ipynb` file from the beginning one by one (make sure the current cell runs completely and the kernel status switches to idle from busy, and then only move on to run the next cell). Similarly, run all cells one by one.
+15. Once all the above variables have been changed, run each cell in the `ipynb` file from the beginning one by one (make sure the current cell runs completely and the kernel status switches to idle from busy, and then only move on to run the next cell). Similarly, run all cells one by one.
 
-14. Wait for about one minute and check your progress in the lab.
+16. Wait for about one minute and check your progress in the lab.
