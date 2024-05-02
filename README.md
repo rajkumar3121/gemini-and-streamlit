@@ -28,7 +28,6 @@
 
    ![image](pics/open_terminal.png).
 
-
    ![image](pics/terminal.png).
 
    
@@ -46,19 +45,20 @@
 
 11. In the `ipynb` file, in the 5th cell, replace 'Why is the sky blue' with the following:
     ```
-    I am a Chef. I need to create Japanese recipes for customers who want low sodium meals. However, I do not want to include recipes that use ingredients associated with a peanuts food allergy. I have ahi tuna, fresh ginger, and edamame in my kitchen and other ingredients. The
+    I am a Chef.  I need to create Japanese recipes for customers who want low sodium meals. However, I do not want to include recipes that use ingredients associated with a peanuts food allergy. I have ahi tuna, fresh ginger, and edamame in my kitchen and other ingredients. The customer wine preference is red. Please provide some for meal recommendations. For each recommendation include preparation instructions, time to prepare and the recipe title at the begining of the response. Then include the wine paring for each recommendation. At the end of the recommendation provide the calories associated with the meal and the nutritional facts.
 
-![image](pics/prior_open.png).
+   .
+ ![image](pics/prior_change.png).
 
-12. Copy your project ID from your lab ![image](pics/project_id.png)
+12. Copy your project ID from your lab 
 
-    
-
+    ![image](pics/project_id.png) .
 
     ![image](pics/project_id_change.png) and paste it in the third cell of the `ipynb` file in the `PROJECT_ID` variable. 
 
-    ![image](pics/change_id.png). Change the region similarly.
+    ![image](pics/change_region.png). Change the region similarly.
 
-12. Once all the above variables have been changed, run each cell in the `ipynb` file from the beginning one by one (make sure the current cell runs completely and the kernel status switches to idle from busy, and then only move on to run the next cell). Similarly, run all cells one by one.
+13. Once all the above variables have been changed, run each cell in the `ipynb` file from the beginning one by one (make sure the current cell runs completely and the kernel status switches to idle from busy, and then only move on to run the next cell). Similarly, run all cells one by one.
 
-13. Wait for about one minute and check your progress in the lab.
+14. Wait for about one minute and check your progress in the lab.
+```
